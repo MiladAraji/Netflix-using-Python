@@ -1,1 +1,1 @@
-Sample Project for Analyzing Netflix data using pandas,numpy,seabort and matplot
+Sample Project for Analyzing Netflix data using pandas,numpy,seaborn and matplot
